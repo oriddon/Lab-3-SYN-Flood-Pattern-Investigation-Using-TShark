@@ -14,7 +14,7 @@ The investigation was completed entirely inside an authorised Kali Linux virtual
 
 ## Student Information
 
-**Student:** Athanasius Orikeze Alekwe  
+**Student:** Athanasius Alekwe  
 **Registration Number:** 2025/FWSD/11230  
 **Course:** Basic Networking Skills for Digital Forensics  
 **Course Code:** SBT-DF203  
